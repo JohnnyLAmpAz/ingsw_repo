@@ -25,3 +25,7 @@ replay_pid*
 
 .metadata
 target/
+
+.Rhistory
+.DS_Store
+
